@@ -95,5 +95,3 @@ Outputs
     *   attention\_visualization.png
         
 *   **Example generations:** Printed in training log and at end of training
-    
-*   **README/report:** Text or markdown, use Pandoc or online markdown-to-pdf converter for PDF report
