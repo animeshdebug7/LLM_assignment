@@ -1,7 +1,7 @@
 Overview
 --------
 
-This project implements a **decoder-only Transformer language model** for the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset, using word-level tokenization (NLTK), embeddings initialized from a local FastText .bin vector file, custom positional encoding, and classic transformer architecture and training.
+This project implements a **decoder-only Transformer language model** for the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset, using word-level tokenization (NLTK), embeddings initialized from a finetuned FastText .bin vector file, custom positional encoding, and classic Decoder only transformer architecture and training.
 
 Key Features
 ------------
